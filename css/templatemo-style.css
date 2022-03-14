@@ -12,7 +12,7 @@ https://templatemo.com/tm-521-get-ready
     margin: 0;
     -webkit-perspective: 1000;
     font-family: 'Poppins', sans-serif;
-    background: #303030;
+    background: #1900ff;
   }
 
   body, html {
@@ -87,7 +87,7 @@ https://templatemo.com/tm-521-get-ready
   }
 
   .overlay {
-    background: linear-gradient(to top right, #d2b48c, #000000);
+    background: linear-gradient(to top right, #938cd2, #000000);
     opacity: 0.9;
     position: absolute;
     top: 0;
